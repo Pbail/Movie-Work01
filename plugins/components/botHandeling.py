@@ -55,9 +55,9 @@ async def set_stream_link(client, message):
             await db.set_stream_link(link)
             await message.reply("Successfully set stream link!")
         else:
-            await message.reply("Usage: /stream https://t.me/Movie_Request_Free_Group or https://t.me/Movie_Request_Free_Group")
+            await message.reply("Usage: /stream https://t.me/babu_devaa or https://t.me/babu_devaa")
     except IndexError:
-        await message.reply("Usage: /stream https://t.me/Movie_Request_Free_Group or https://t.me/Movie_Request_Free_Group")
+        await message.reply("Usage: /stream https://t.me/babu_devaa or https://t.me/babu_devaa")
         return
 
 
@@ -88,17 +88,17 @@ def checkIfLinkIsValid(link):
 @Client.on_message(filters.command("m_grp") & filters.user(ADMINS))
 async def m_grp(client, message):
     links = []
-    link = await client.ask(message.chat.id ,"send me your pm search grp link or send /skiplink to skip , default is Movie_Request_Free_Group")
+    link = await client.ask(message.chat.id ,"send me your pm search grp link or send /skiplink to skip , default is babu_devaa")
     if link.text == "/skiplink":
-        links.append("https://t.me/Movie_Request_Free_Group")
+        links.append("https://t.me/babu_devaa")
     else:
         if checkIfLinkIsValid(link.text):
             links.append(link.text)
         else:
             await message.reply("Invalid link")
-    link1 = await client.ask(message.chat.id ,"send me your movies grp link or send /skiplink to skip . default is Movie_Request_Free_Group")
+    link1 = await client.ask(message.chat.id ,"send me your movies grp link or send /skiplink to skip . default is babu_devaa")
     if link1.text == "/skiplink":
-        links.append("https://t.me/Movie_Request_Free_Group")
+        links.append("https://t.me/babu_devaa")
     else:
         if checkIfLinkIsValid(link1.text):
             links.append(link1.text)
