@@ -106,7 +106,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/Movie_Support_Group/'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+    FILE_CAPTION = """<a href='https://t.me/https://t.me/INDIAN_HACKER_GROUP/'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
