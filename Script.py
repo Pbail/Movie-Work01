@@ -41,7 +41,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-🙏 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʟᴏʀᴅ ᴋʀɪsʜɴᴀ
+🙏 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="https://telegram.me/Owner_Sohel">ꜱᴏʜᴇʟ</a>
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/MOON_GOD_KHONSU">𝗠ʀ 𝗡ɪɢʜᴛ</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://telegram.me/MOON_GOD_KHONSU">𝗠ʀ 𝗡ɪɢʜᴛ</a>
 </b>"""
