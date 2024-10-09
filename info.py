@@ -20,7 +20,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '7962564169:AAF0nZLbkA_3YwawgDVVDIoWcrhBbV-
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5606990991 6223285429').split()]
 USERNAME = environ.get('USERNAME', "https://telegram.me/Owner_Sohel")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002349193496'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/babu_devaa')
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/HD_Movies_Group_2024')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002059717598 -1001899588945 -1002055520451').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://yk8t2b94zk:YhqHYC1NvW5xI1Ua@cluster0.l3qmo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "TELEGRAM_BOT_INFO")
@@ -52,7 +52,7 @@ YEARS = [f'{i}' for i in range(2024 , 2002,-1 )]
 SEASONS = [f'season {i}'for i in range (1 , 23)]
 REF_PREMIUM = 30
 PREMIUM_POINT = 1500
-auth_channel = environ.get('AUTH_CHANNEL', '-1002264272756')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002077508495')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1001685012914'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002456759169')
